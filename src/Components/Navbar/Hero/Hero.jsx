@@ -8,7 +8,7 @@ const Hero = () => {
   return (
     <div id='home' className='hero'>
       <div className="image">
-      <img src={mejpg} alt="" />
+      {/* <img src={mejpg} alt="" /> */}
       </div>
       <h1><span>I'm Hafsa Mudassar,</span> frontend developer based in Pakistan</h1>
       <p>I am a frontend developer form Lahore, Pakistan with 2 years of experience in multiple companies like Microsoft, Tools and Apple.</p>
